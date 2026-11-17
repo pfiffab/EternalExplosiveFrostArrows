@@ -1,0 +1,15 @@
+{
+  "id": "EternalExplosiveFrostArrows",
+  "name": "Eternal Explosive Frost Arrows",
+  "version": "0.1.0",
+  "capabilities": [
+    "patch"
+  ],
+  "dependencies": [],
+  "authors": [
+    "Flipsii"
+  ],
+  "description": "Adds explosive impact behavior to Eternal Frost Arrows while preserving their frost projectile visuals and ice damage.",
+  "license": null,
+  "icon": null
+}
